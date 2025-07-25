@@ -1,18 +1,17 @@
-print("\n")
-name = "Aononto Jahan Junnurain"
-cgpa = 3.37
-phone = "01723740704"
-gmail = "aonontojahan@gmail.com"
-university = "IUBAT"
+# Personal information
+name = "Aononto Jahan"
+age = 20  # Change if needed
+study = "Computer Science Student"
+university = "Your University Name"  # Replace with your real one
+email = "aononto@example.com"  # Replace with your real email
+phone = "+8801XXXXXXXXX"  # Replace with your real number
 
-print("Hello, This is "+name)
-print("Currently I am doing my Bsc in CSE at "+university, ", Which is " "located in UTTARA")
-print("In this university, I am trying to maintain an average cgpa in every semester" + " My current cgpa is:",cgpa,)
-print("My phone number is ", phone,"and my gmail is ",gmail, "Normaly for any problem mail me or You can call me directly in the emergency case")
-
-print("\n")
-print("Hello,"+" This is "+name, ". Currently I am doing my Bsc in CSE at "+university, " Which is located in Uttara."+" In this university, I am trying to maintain an average cgpa in every semester"+". My current cgpa is",cgpa, "My phone number is",phone, "and my gmail is",gmail, " Normaly for any problem mail me or You can call me directly in the emergency case")
-
-
-
-
+# Print the details
+print("----- My Details -----")
+print("Name:", name)
+print("Age:", age)
+print("Study:", study)
+print("University:", university)
+print("Email:", email)
+print("Phone:", phone)
+print("----------------------")
