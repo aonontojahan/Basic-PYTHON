@@ -1,7 +1,7 @@
 print("\n")
 name = "Aononto Jahan Junnurain"
-cgpa = 3.37
 phone = "01723740704"
+cgpa = 3.37
 gmail = "aonontojahan@gmail.com"
 university = "IUBAT"
 
