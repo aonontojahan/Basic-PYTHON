@@ -1,6 +1,6 @@
 #Update Type Casting
 
-# 🚀 Type Casting Example
+#  Type Casting Example
 
 # Input values with appropriate casting
 number1 = int(input("Please enter first number (integer): "))
