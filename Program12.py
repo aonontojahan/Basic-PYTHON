@@ -1,13 +1,9 @@
-#Relational Operator and bollean
+#Relational Operator and boll
 
-number1=int(input("Please enter the firdt number: "))
-number2=int(input("Please enter the secound number: "))
-name1="aononto"
-name2="jahan"
+number1=int(input("Please enter the first number: "))
+number2=int(input("Please enter the second number: "))
 
 result=number1>number2
 check=number1<number2
-print("The statement is: ",result)
-print("The statement is: ",number1==number2)
-print("The satement is: ",check)
-print("Both are same person: ",name1==name2)
+print("The statement is:  ",result)
+print("The statement is: ",check)
