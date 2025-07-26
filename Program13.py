@@ -1,5 +1,4 @@
 # If/Else statement checking
-print("Student Grade Management")
 name=input("Please enter your name: ")
 dept=input("Please enter your department name: ")
 
