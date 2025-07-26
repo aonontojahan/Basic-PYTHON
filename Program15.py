@@ -1,5 +1,6 @@
 #nested if statement
 print("Finding the greater number among three number")
+print("Using Nested if/else")
 number1=int(input("Please enter first number: "))
 number2=int(input("Please enter the second number: "))
 number3=int(input("Please enter the third number: "))
